@@ -1,0 +1,604 @@
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\CNPM.exe
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\CNPM.pdb
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\nag13\source\repos\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\nag13\source\repos\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+C:\Users\nag13\source\repos\CNPM\CNPM\obj\Debug\CNPM.Form1.resources
+C:\Users\nag13\source\repos\CNPM\CNPM\obj\Debug\CNPM.HangHoa.resources
+C:\Users\nag13\source\repos\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\nag13\source\repos\CNPM\CNPM\obj\Debug\CNPM.ThanhToan.resources
+C:\Users\nag13\source\repos\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\nag13\source\repos\CNPM\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\nag13\source\repos\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+C:\Users\nag13\source\repos\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\nag13\source\repos\CNPM\CNPM\obj\Debug\CNPM.exe
+C:\Users\nag13\source\repos\CNPM\CNPM\obj\Debug\CNPM.pdb
+E:\CNPM\CNPM\bin\Debug\CNPM.exe.config
+E:\CNPM\CNPM\bin\Debug\CNPM.exe
+E:\CNPM\CNPM\bin\Debug\CNPM.pdb
+E:\CNPM\CNPM\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+E:\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+E:\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.dll
+E:\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.dll
+E:\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+E:\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+E:\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.dll
+E:\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.dll
+E:\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+E:\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+E:\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+E:\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+E:\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.xml
+E:\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.xml
+E:\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+E:\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.xml
+E:\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+E:\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+E:\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.xml
+E:\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+E:\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+E:\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+E:\CNPM\CNPM\obj\Debug\CNPM.Form1.resources
+E:\CNPM\CNPM\obj\Debug\CNPM.HangHoa.resources
+E:\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+E:\CNPM\CNPM\obj\Debug\CNPM.ThanhToan.resources
+E:\CNPM\CNPM\obj\Debug\CNPM.ThemXoaHang.resources
+E:\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+E:\CNPM\CNPM\obj\Debug\CNPM.exe.licenses
+E:\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+E:\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+E:\CNPM\CNPM\obj\Debug\CNPM.exe
+E:\CNPM\CNPM\obj\Debug\CNPM.pdb
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\CNPM.exe
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\CNPM.pdb
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\obj\Debug\CNPM.Form1.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\obj\Debug\CNPM.HangHoa.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\obj\Debug\CNPM.KhoHang.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\obj\Debug\CNPM.ThanhToan.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\obj\Debug\CNPM.ThemXoaHang.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\obj\Debug\CNPM.exe
+C:\Users\nag13\Documents\Zalo Received Files\CNPM\CNPM\obj\Debug\CNPM.pdb
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\CNPM.pdb
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Form1.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\obj\Debug\CNPM.HangHoa.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThanhToan.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThemXoaHang.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\obj\Debug\CNPM.pdb
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmKhoHang.resources
+D:\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe.config
+D:\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe
+D:\CNPM1\CNPM\CNPM\bin\Debug\CNPM.pdb
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.dll
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.dll
+D:\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.xml
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.xml
+D:\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Form1.resources
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmKhoHang.resources
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThanhToan.resources
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThemXoaHang.resources
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe.licenses
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.pdb
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmNhaCungCap.resources
+D:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.QLHangHoa.resources
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Form1.resources
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.QLHangHoa.resources
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmKhoHang.resources
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmNhaCungCap.resources
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThanhToan.resources
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThemXoaHang.resources
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe.licenses
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+E:\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe.config
+E:\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe
+E:\CNPM1\CNPM\CNPM\bin\Debug\CNPM.pdb
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.dll
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.dll
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.dll
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.dll
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+E:\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.dll
+E:\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.xml
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.xml
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.xml
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.xml
+E:\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.xml
+E:\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+E:\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe
+E:\CNPM1\CNPM\CNPM\obj\Debug\CNPM.pdb
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\CNPM.pdb
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Form1.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.QLHangHoa.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmKhoHang.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmNhaCungCap.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThanhToan.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThemXoaHang.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe
+C:\Users\ADMIN\Downloads\Desktop\CNPM1 (2)\CNPM1\CNPM\CNPM\obj\Debug\CNPM.pdb
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe.config
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.pdb
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.dll
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.dll
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.xml
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.xml
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmDoiMatKhau.resources
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Form1.resources
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.QLHangHoa.resources
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmKhoHang.resources
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmNhaCungCap.resources
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmQuenMatKhau.resources
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThanhToan.resources
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThemXoaHang.resources
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmTaoTaiKhoan.resources
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmThongTinTaiKhoan.resources
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe.licenses
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.pdb
+D:\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.TestImageListView.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.pdb
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmDoiMatKhau.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Form1.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.QLHangHoa.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmKhoHang.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmNhaCungCap.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmQuenMatKhau.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThanhToan.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThemXoaHang.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmTaoTaiKhoan.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmThongTinTaiKhoan.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.pdb
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmQLBanHang.resources
+C:\Users\ADMIN\Downloads\Desktop\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmGioHang.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.pdb
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmDoiMatKhau.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Form1.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmGioHang.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.QLHangHoa.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmKhoHang.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmNhaCungCap.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmQuenMatKhau.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThemXoaHang.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmTaoTaiKhoan.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmThongTinTaiKhoan.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmQLBanHang.resources
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.pdb
+C:\Users\nag13\Documents\Zalo Received Files\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmThanhToan.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.pdb
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmDoiMatKhau.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmGioHang.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.QLHangHoa.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmKhoHang.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmNhaCungCap.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmQuenMatKhau.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmThanhToan.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThemXoaHang.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmTaoTaiKhoan.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmThongTinTaiKhoan.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmQLBanHang.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.pdb
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Images.v23.1.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmQLBH.resources
+C:\Users\khanh\Downloads\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.DangNhap.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.exe
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\CNPM.pdb
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Images.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmDoiMatKhau.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.DangNhap.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmGioHang.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmQLBH.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.QLHangHoa.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmKhoHang.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmNhaCungCap.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmQuenMatKhau.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmThanhToan.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.ThemXoaHang.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmTaoTaiKhoan.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmThongTinTaiKhoan.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmQLBanHang.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.exe
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.pdb
+C:\Users\khanh\OneDrive\Máy tính\CNPM1\CNPM1\CNPM1\CNPM1\CNPM\CNPM\obj\Debug\CNPM.frmDoanhThu.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.csproj.AssemblyReference.cache
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.frmDoiMatKhau.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.DangNhap.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.frmDoanhThu.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.frmGioHang.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.frmQLBH.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.frmKhoHang.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.frmNhaCungCap.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.frmQuenMatKhau.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.frmThanhToan.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.ThemXoaHang.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.frmTaoTaiKhoan.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.frmThongTinTaiKhoan.resources
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.exe
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.pdb
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\CNPM.exe
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\CNPM.pdb
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Images.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\EntityFramework.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\EntityFramework.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\khanh\OneDrive\Máy tính\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete

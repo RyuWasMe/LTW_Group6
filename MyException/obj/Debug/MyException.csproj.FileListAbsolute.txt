@@ -1,0 +1,2 @@
+E:\CNPM1\CNPM\MyException\obj\Debug\MyException.csproj.AssemblyReference.cache
+E:\CNPM1\CNPM\MyException\obj\Debug\MyException.csproj.CoreCompileInputs.cache

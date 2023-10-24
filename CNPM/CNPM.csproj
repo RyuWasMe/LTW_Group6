@@ -1,0 +1,347 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{08664DA2-5F12-4333-BAE7-60FE5DFB535B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CNPM</RootNamespace>
+    <AssemblyName>CNPM</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v23.1" />
+    <Reference Include="DevExpress.Data.Desktop.v23.1" />
+    <Reference Include="DevExpress.Data.v23.1" />
+    <Reference Include="DevExpress.Images.v23.1, Version=23.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v23.1" />
+    <Reference Include="DevExpress.Sparkline.v23.1.Core" />
+    <Reference Include="DevExpress.XtraBars.v23.1, Version=23.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v23.1" />
+    <Reference Include="DevExpress.Printing.v23.1.Core" />
+    <Reference Include="DevExpress.Drawing.v23.1" />
+    <Reference Include="DevExpress.XtraGrid.v23.1, Version=23.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoiMatKhau.Designer.cs">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoanhThu.Designer.cs">
+      <DependentUpon>frmDoanhThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GioHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GioHang.Designer.cs">
+      <DependentUpon>GioHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputChecker.cs" />
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ChiTietHoaDon.cs" />
+    <Compile Include="Models\Doanh_Thu.cs" />
+    <Compile Include="Models\HangHoa.cs" />
+    <Compile Include="Models\HangHoaDBContext.cs" />
+    <Compile Include="Models\HoaDon.cs" />
+    <Compile Include="Models\NhaCungCap.cs" />
+    <Compile Include="Models\TaiKhoan.cs" />
+    <Compile Include="Models\TonKho.cs" />
+    <Compile Include="KhoHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoHang.Designer.cs">
+      <DependentUpon>KhoHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLNhaCungCap.Designer.cs">
+      <DependentUpon>QLNhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLyTapHoaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyTapHoaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuenMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuenMatKhau.Designer.cs">
+      <DependentUpon>QuenMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThanhToan.Designer.cs">
+      <DependentUpon>ThanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemXoaHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemXoaHang.Designer.cs">
+      <DependentUpon>ThemXoaHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaoTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaoTaiKhoan.Designer.cs">
+      <DependentUpon>TaoTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongTinTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongTinTaiKhoan.Designer.cs">
+      <DependentUpon>ThongTinTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLBH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLBH.Designer.cs">
+      <DependentUpon>QLBH.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DoiMatKhau.resx">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoanhThu.resx">
+      <DependentUpon>frmDoanhThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GioHang.resx">
+      <DependentUpon>GioHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLBH.resx">
+      <DependentUpon>QLBH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoHang.resx">
+      <DependentUpon>KhoHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLNhaCungCap.resx">
+      <DependentUpon>QLNhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QuenMatKhau.resx">
+      <DependentUpon>QuenMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThanhToan.resx">
+      <DependentUpon>ThanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemXoaHang.resx">
+      <DependentUpon>ThemXoaHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaoTaiKhoan.resx">
+      <DependentUpon>TaoTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongTinTaiKhoan.resx">
+      <DependentUpon>ThongTinTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.Config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QuanLyTapHoaDataSet1.xsc">
+      <DependentUpon>QuanLyTapHoaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyTapHoaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyTapHoaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyTapHoaDataSet1.xss">
+      <DependentUpon>QuanLyTapHoaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\kisspng-computer-icons-user-profile-clip-art-big-5ac5283827d286.2570974715228703281631.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1329ada7c49dc6954526ccff5daea8e0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Poca-BBQ-Snack-42g-x-80-Bags-3-768x768.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lay chips.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keo-trai-cay-855.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1551066991_594g-Welly.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Combo-4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\310fb84328d498214b709ffba06669ac.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\196402.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0c58ee72416a7835715bb8fb9b47dde4.jpg_550x550.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bich-35-goi--2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aquafina.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sting-strawberry-drink-soft1-768x768.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e5db7ab7f4ce9aabc32cfb3c0d208145.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuoc-lau-nha-gift-ylang-1l.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0012265_bot-giat-omo-comfort-tinh-dau-thom-ngat-ngay-53kg_510.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bong-gon-y-te-bao-thach-5g.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Combo-42.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\024832980.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gia-vi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1024px-Search_Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1024px-OOjs_UI_icon_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\302225145.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1048054-20044.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\420590645.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-computer-icons-report-daily-use-miscellaneous-anglejhj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\register-button-png-18455.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6146586.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6146587.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile-icon-login-head-icon-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password-76.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nest_forgot_password_dribbble.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail-download.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pass.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addtocart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
